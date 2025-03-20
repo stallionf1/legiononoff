@@ -1,0 +1,4 @@
+pycharm
+git
+hub
+store
